@@ -2,3 +2,5 @@
 Initial commit
 
 Next comit
+
+NPM init'ed

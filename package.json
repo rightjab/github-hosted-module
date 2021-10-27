@@ -1,0 +1,19 @@
+{
+  "name": "github-hosted-module",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rightjab/github-hosted-module.git"
+  },
+  "author": "RJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rightjab/github-hosted-module/issues"
+  },
+  "homepage": "https://github.com/rightjab/github-hosted-module#readme"
+}
