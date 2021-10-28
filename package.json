@@ -2,8 +2,7 @@
   "name": "github-hosted-module",
   "version": "1.0.1",
   "description": "test",
-  "main": "index.js",
-  "module": "src/testmodule.js",
+  "main": "src/testmodule.js",
   "type": "module",
   "scripts": {
     "test": "npm run index.js"
